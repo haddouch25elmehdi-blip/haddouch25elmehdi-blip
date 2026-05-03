@@ -35,21 +35,6 @@ Passionné par le développement web moderne, je suis actuellement en formation 
 
 ---
 
-## 📌 Projets
-
-### 🏆 Dashboard Sportif — Projet de Fin d'Études (2026)
-> Tableau de bord interactif affichant résultats, classements et statistiques sportives en temps réel.
-- **Frontend** : React.js + Tailwind CSS
-- **Backend** : Node.js / Express.js + PHP Laravel
-- **Base de données** : MySQL
-- **APIs** : Intégration d'APIs sportives externes
-
-### 📋 Système de Gestion des Étudiants (2025)
-> Application console développée en langage C avec opérations CRUD complètes.
-- Gestion des données étudiants avec structures de données
-- Persistance via fichiers
-
----
 
 ## 📊 GitHub Stats
 
